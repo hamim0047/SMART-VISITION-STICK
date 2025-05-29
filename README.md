@@ -57,16 +57,7 @@ https://drive.google.com/drive/folders/1-13hRNUz3HE2Cwgp30zrie-Xn70yubLq
 
 ## 📁 Folder Structure ##
 
-Smart-Vision-Stick/
-├── esp32-cam-object-detection.ino/
-├── images_of_bottle_final_object/
-├── arduinoDFPLAYER.ino/
-├── Vibration_gps_water.ino/
-├── updated_for_espCAM.ino/
-├── Audio/
-├── images_of_dustbin_object/
-├── images_of_dustbin_object/
-├── README.md
+<pre><code> Smart-Vision-Stick/ ├── esp32-cam-object-detection.ino ├── arduinoDFPLAYER.ino ├── Vibration_gps_water.ino ├── updated_for_espCAM.ino ├── Audio/ ├── images_of_bottle_final_object/ ├── images_of_dustbin_object/ ├── README.md </code></pre>
 
 ## 🚀 Future Enhancements ##
 Add obstacle classification (e.g., "person", "car", "stair").
