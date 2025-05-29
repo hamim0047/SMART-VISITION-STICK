@@ -35,16 +35,22 @@ Tracks the real-time location using a GPS module and sends live updates to careg
 
 ## 🖼️ Images & Results ##
 Device Overview
-![FInal Project](image/finalProject)
-
+![FInal Project](image/finalProject.JPG)
+Sample Objects
+![Bottle](image/bottle.jpg)
+![Phone](image/phone.jpg)
+![Dustbin](image/dustbin.jpg)
+![pothole](image/pothole.jpg)
 Object Detection
 Object identified using ESP32-CAM and TTS feedback given.
-
+![Object Detection](image/object_detection.jpg)
+![Object Detection](image/object_detection_2.jpg)
 Emergency Alert
 Fall or emergency triggers Telegram Bot to send location and alert to caregiver.
-
+![Location Detection](image/GPS_Alert.jpg)
 Fall Detection
 Telegram Bot sends fall alert upon vibration detection.
+![Fall Detection](image/Fall_detection.jpg)
 
 ## 📽️ Demo Video Drive Link ##
 https://drive.google.com/drive/folders/1-13hRNUz3HE2Cwgp30zrie-Xn70yubLq 
