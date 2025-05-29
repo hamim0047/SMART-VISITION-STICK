@@ -35,6 +35,7 @@ Tracks the real-time location using a GPS module and sends live updates to careg
 
 ## 🖼️ Images & Results ##
 Device Overview
+![FInal Project](image/finalProject)
 
 Object Detection
 Object identified using ESP32-CAM and TTS feedback given.
